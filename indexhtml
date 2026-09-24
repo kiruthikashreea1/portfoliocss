@@ -15,7 +15,7 @@ body
 
 nav
 {
-    background-color:darkslateblue;
+    background-color:darkblue;
     padding:20px;
 }
 
@@ -90,10 +90,10 @@ p
 
 <p>HTML
 CSS <br>
-JavaScript
-Python
-Java
-SQL
+JavaScript <br>
+Python <br>
+Java <br>
+SQL <br>
 PHP</p>
 
 </section>
